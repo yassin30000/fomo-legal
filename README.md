@@ -100,3 +100,6 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 Questions about this Privacy Policy?
 
 📧 **yassintantawy3@gmail.com**
+
+© 2026 FOMO - Go Out Tonight. All rights reserved.
+
