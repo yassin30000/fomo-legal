@@ -1,4 +1,4 @@
-# FOMO Privacy Policy
+# FOMO - Go Out Tonight Privacy Policy
 
 *Last updated: June 3, 2026*
 
@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-FOMO ("we," "us," or "our") operates the FOMO mobile application. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+FOMO - Go Out Tonight ("we," "us," or "our") operates the FOMO mobile application. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
 ---
 
